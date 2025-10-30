@@ -1,5 +1,3 @@
-# Brexit_voting_project
-
 # 🇬🇧 Brexit Referendum Data Analysis  
 
 ## 🧭 Introduction to the Context and Data  
